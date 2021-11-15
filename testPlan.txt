@@ -1,0 +1,34 @@
+Overview:
+Manual Tests for the functionality of the website cloned from https://github.com/DevMountain-QA/wanted-queries.git
+
+High level (broad) tests:
+- Enter Wanted page should allow the user to enter a new warrant.
+- Modify Wanted page should allow the user to modify an existing warrant.
+
+Low level (specific) tests:
+- Navigation bar on Home page, should be able to navigate to Enter Wanted page.
+- On Enter Wanted page, if text was entered into different fields, Clear button should clear all fields.
+
+Smoke/Sanity Test (basic functionality):
+- Does the website load home page and rest of the pages properly in different browsers? So like, is the site functioning properly?
+
+
+
+
+
+
+
+Here are some examples using the "rental" application we were looking at in the demo:
+<https://alpha.yoodlize.com/>
+1. Example high-level tests:
+    - A registered user should be able to log in
+    - A registered user, when logged in, should be able to create a listing
+    - Shopping Cart working properly
+    - Search bar working properly
+2. Example low-level tests:
+    - The "how it works" video should play without any issues
+    - The "categories" button should pull up a search of all items in that category
+3. Example smoke/sanity tests:
+    - Are users looking to purchase a rental item able to connect with users looking to sell the rental?
+    - Are navigation links functioning? 
+    - Does the website operate, overall, correctly?
